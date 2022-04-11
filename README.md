@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Smaller side projects when I find the time.
+- 🔭 I’m currently working on smaller side projects when I find the time.
 
 - 🌱 I’m currently learning React and SASS 
 
